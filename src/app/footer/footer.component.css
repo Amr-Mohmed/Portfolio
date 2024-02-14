@@ -1,0 +1,20 @@
+*{
+    color: white;
+}
+.p{
+    background-color: #1a252f;
+    padding-bottom : 10px;
+    padding-top: 20px;
+}
+.items{
+    background-color:#2C3E50 ;
+}
+.item{
+    padding: 80px;
+}
+.icon{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 5px;
+}

@@ -1,0 +1,30 @@
+.line{
+    background-color: #2C3E50;
+}
+.form-control{
+    padding: 15px 5px;
+}
+label{
+    color: #1ABC9C;
+    margin-bottom: 10px;
+}
+
+.form-control:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+    h1{
+        font-size: 32px !important;
+        margin-top: 15px !important;
+    }
+    .from-style{
+        width: 90% !important;
+    }
+    .title1{
+        /* font-size: 22px; */
+
+    }
+}
